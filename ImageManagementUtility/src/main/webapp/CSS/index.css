@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+
+body{
+	height : 100%;
+	text-align:center;
+	background-color: #000000;
+	color:white;
+}
+table{
+	padding:10px;
+	background-color:#ffcc00;
+	margin:auto;
+}
+
+a{
+	color:blue;
+}
+#btn{
+	background-color:tomato;
+	color:white;
+}

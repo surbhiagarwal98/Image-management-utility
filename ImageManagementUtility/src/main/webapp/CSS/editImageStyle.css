@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+body{
+	text-align:center;
+	background-color: black;
+	color:white;
+}
+
+form{
+	background-color:#ffcc00;
+	padding:10px;
+}
+#snotext{
+	width:50px;
+	border:1px solid red;
+	border-radius:50%;
+	text-align:center;
+}
+#btn{
+	color:white;
+	background-color:red;
+}

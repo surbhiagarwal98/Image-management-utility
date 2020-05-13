@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+
+
+h1{
+	text-align:center;
+}
+h2{
+	color: tomato;
+	text-align:center;
+}
+#imageBrowse{
+	background-color : wheat;
+	text-align:center;
+	font-weight:bold;
+}
+#browsetable{
+	text-align:left;
+	width:100%;
+	margin:10px;
+}
+
+#btn{
+	background-color:tomato;
+	color:white;
+	margin:10px;
+}
+#images{
+	background-color:#fef9d1;
+	text-align:center;
+}
+#imagetable{
+	width:100%;
+	font-weight:bold;
+}
+.header {
+	text-align:center;
+	color:black;
+	background-color:#ff8040;
+}
+.data{
+	width:20%;
+	padding:5px;
+}

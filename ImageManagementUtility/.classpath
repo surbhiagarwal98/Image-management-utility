@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" sourcepath="M2_REPO/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar" sourcepath="M2_REPO/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" sourcepath="M2_REPO/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final.jar" sourcepath="M2_REPO/org/hibernate/hibernate-entitymanager/5.0.12.Final/hibernate-entitymanager-5.0.12.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar" sourcepath="M2_REPO/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final.jar" sourcepath="M2_REPO/org/hibernate/hibernate-core/5.0.12.Final/hibernate-core-5.0.12.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="M2_REPO/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" sourcepath="M2_REPO/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar" sourcepath="M2_REPO/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final.jar" sourcepath="M2_REPO/org/jboss/jandex/2.0.0.Final/jandex-2.0.0.Final-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" sourcepath="M2_REPO/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" sourcepath="M2_REPO/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final.jar" sourcepath="M2_REPO/org/hibernate/common/hibernate-commons-annotations/5.0.1.Final/hibernate-commons-annotations-5.0.1.Final-sources.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/bin/bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/bin/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/bin/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/catalina-ssi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/ecj-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-cs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-de.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-ko.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-pt-BR.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-i18n-zh-CN.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/surbhiagarwal/apache-tomcat-9.0.33-windows-x64/apache-tomcat-9.0.33/lib/websocket-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
